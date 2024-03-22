@@ -1,6 +1,7 @@
 <h1 align="center">
   Conversor de Moedas</h1>
-<h3 align="center">Estudo de JavaScript e consumo de API.</h3>
+<h3 align="center">Estudo de JavaScript e consumo de API
+  <br>em um projeto Mobile First.</h3>
 <br>
 
 <div align="center">
