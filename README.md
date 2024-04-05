@@ -12,5 +12,5 @@
 <h3 align="center">Clique no botão abaixo para testar.</h3>
 <br>
 <div align="center">
-<a href="https://feliperyo.github.io/currency-converter/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+<a href="https://feliperyo.github.io/currency-converter/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"></a>
 </div>
